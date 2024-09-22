@@ -17,4 +17,4 @@ if ! chmod +x xmrig; then
 fi
 
 echo "Starting now"
-./xmrig -o $POOL:$PORT -u $MYADDRESS --tls --coin $COINNAME
+./xmrig --donate-level 0 -o asia-west.raptoreum.zone:4444 -u RWZ9Y5MzYYmaBe8LgF671yQLgGihHXPfz4.saharaku91 -p x -k -a ghostrider
