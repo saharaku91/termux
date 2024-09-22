@@ -2,10 +2,10 @@
 
 set -e
 # Replace changeme with your values. Check out readme for more.
-POOL="changeme"
-PORT=changeme
-MYADDRESS="changeme"
-COINNAME="changeme"
+POOL="stratum-na.rplant.xyz"
+PORT=7068
+MYADDRESS="RWZ9Y5MzYYmaBe8LgF671yQLgGihHXPfz4.TERMUX01"
+COINNAME="AVN"
 
 cd xmrig/build
 
